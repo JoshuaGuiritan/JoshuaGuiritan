@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://avatars.githubusercontent.com/u/47405004?s=200&v=4" height="40" alt="Appwrite" />
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appwrite.svg" height="40" alt="Appwrite logo" />
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="40" alt="Supabase" />
   <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" alt="Vercel" />
 </p>
