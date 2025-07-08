@@ -13,7 +13,7 @@ I’m a Junior Software Developer with a passion for Web Development. I genuinel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://upload.vectorlogo.zone/logos/vitejs/images/2fd2b522-932c-4cc8-9f28-8767707a4b7a.svg" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </p>
 
 ### 🧠 Backend
