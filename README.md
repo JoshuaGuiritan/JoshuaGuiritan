@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Joshua Guiritan
 
-I’m a Junior Software Developer with a passion for Web Development. I genuinely enjoy designing and building websites that are both functional and visually engaging. I also find backend scripting and working with databases rewarding, especially when it comes to solving problems and building smart, efficient systems.
-
+I'm a Junior Software Developer specialized in web development. I really enjoy designing websites and then bringing them to life. I also like backend scripting and working with databases for logic and solving problems. Hit me up for collaborations!
 ---
 
 ## 🛠️ Tech Stack
