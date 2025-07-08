@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joshua Guiritan
 
 I’m a Junior Software Developer with a passion for Web Development. I genuinely enjoy designing and building websites that are both functional and visually engaging. I also find backend scripting and working with databases rewarding, especially when it comes to solving problems and building smart, efficient systems.
 
