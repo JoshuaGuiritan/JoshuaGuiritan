@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Joshua Guiritan
 
-I'm a Junior Software Developer specialized in **web development**.  
+I'm a Junior Software Developer.  
 I really enjoy designing websites and then bringing them to life.  
 I also like backend scripting and working with databases for logic and solving problems.
+I’ve started Game Development as part of a startup.
 
 💬 Hit me up for collaborations!
 
@@ -37,4 +38,10 @@ I also like backend scripting and working with databases for logic and solving p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</p>
+
+### 🎮 Game Dev
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://www.raylib.com/img/logo_raylib_256x256.png" height="40" alt="Raylib" />
 </p>
