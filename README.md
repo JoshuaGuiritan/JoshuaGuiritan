@@ -43,5 +43,5 @@ I’ve started Game Development as part of a startup.
 ### 🎮 Game Dev
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/haydenjameslee/raylib-cdn/raylib-logo.png" height="40" alt="Raylib" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAXVBMVEUAAAD///////////////////////////////////////////////////////////////+pDFhkAAAAIHRSTlMAAQQFBwgNDxAiJjM+QUpTVVpgY3Z6gYeSlZ2foaWtv8jT3tnm8o1B96wAAAY9JREFUeNrsm9lygkAQRkeWBlXRkO//s6W40ENaKUlZ3HtP3x2PVaTgRxNJkiRJkiRJ0m/AjEcMJ39WaY7tU+cHuvrKxO9nujm/XE+yfdHke/zbXfPoD6dq82Scf3JuyPSqivFO8ad9kEtP6mbqwlWGyNNUlYJ5lHdMXHKrglvL+iQwV9Qk3s2iRUWrhqxRtlBaosJNYbLRmvqnCEK+meJ5XNQgpB3mU/UX4f7XGCZTVzJXTrRWNlJrjmgkFTAsS3Zbz5+7x/fPQkHMPiEvTtuIY9gkjXYzHvRIbcDfWyNdg3t4Yb2ubW9Gxbs3GzZo16p6hnlqVZx8vf+YT7C7KPUbpuUZdrW73B/F5a7nccZu9u+Ni8xnN4Jch1EZkiRJkiRJkuSd/gF3CtCO9k84ZQAAAABJRU5ErkJggg==" height="40" alt="Raylib" />
 </p>
