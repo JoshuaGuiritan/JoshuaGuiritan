@@ -43,5 +43,5 @@ I’ve started Game Development as part of a startup.
 ### 🎮 Game Dev
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_logo.png" height="40" alt="Raylib" />
+  <img src="https://cdn.jsdelivr.net/gh/haydenjameslee/raylib-cdn/raylib-logo.png" height="40" alt="Raylib" />
 </p>
