@@ -3,7 +3,6 @@
 I'm a Junior Software Developer.  
 I really enjoy designing websites and then bringing them to life.  
 I also like backend scripting and working with databases for logic and solving problems.
-I’ve started Game Development as part of a startup.
 
 💬 Hit me up for collaborations!
 
@@ -38,10 +37,4 @@ I’ve started Game Development as part of a startup.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-</p>
-
-### 🎮 Game Dev
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Raylib_logo.svg/512px-Raylib_logo.svg.png" height="40" alt="Raylib" />
 </p>
