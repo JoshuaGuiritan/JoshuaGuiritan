@@ -37,5 +37,5 @@ I also like backend scripting and working with databases for logic and solving p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" height="40" alt="Canva" />
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="40" alt="Canva" />
 </p>
