@@ -24,8 +24,6 @@ I also like backend scripting and working with databases for logic and solving p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </div>
 
----
-
 ### 🧠 Backend
 
 <div style="text-align: left;">
@@ -33,8 +31,6 @@ I also like backend scripting and working with databases for logic and solving p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
-
----
 
 ### 🔧 Tools
 
