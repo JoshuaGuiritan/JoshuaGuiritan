@@ -39,24 +39,3 @@ There's something incredibly rewarding about transforming the ideas I imagined a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 
 </div>
-
----
-
-## 🌟 Projects
-
-### 🚀 [Zest](https://zest-frontend-virid.vercel.app)  
-*Fullstack social media app with posts and authentication.*  
-🔗 Live Site: [zest-frontend-virid.vercel.app](https://zest-frontend-virid.vercel.app)
-
----
-
-### 🌍 [CityAid](https://cityaid-frontend.vercel.app)  
-*Community assistance platform with location-based features.*  
-🔗 Live Site: [cityaid-frontend.vercel.app](https://cityaid-frontend.vercel.app)
-
----
-
-### 🍔 [Crispy King Veterans](https://crispyking-veterans.vercel.app)  
-*Mobile-friendly online restaurant static app.*  
-🔗 Live Site: [crispyking-veterans.vercel.app](https://crispyking-veterans.vercel.app)
-
