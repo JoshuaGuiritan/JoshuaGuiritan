@@ -16,6 +16,14 @@ There's something incredibly rewarding about transforming the ideas I imagined a
 
 ---
 
+## 🌟 My Projects
+
+| Project Name                   | Description                                       | Live Link                                               |
+|-------------------------------|-------------------------------------------------|---------------------------------------------------------|
+| **Zest**                      | Fullstack social media app with posts and auth. | [zest-frontend-virid](https://zest-frontend-virid.vercel.app)  |
+| **CityAid**                   | Community assistance platform with location features. | [cityaid-frontend](https://cityaid-frontend.vercel.app)          |
+| **Crispy King Veterans**      | Mobile-friendly online restaurant ordering app. | [crispyking-veterans](https://crispyking-veterans.vercel.app)    |
+
 ## 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
