@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Joshua Guiritan
 
-I'm a Junior Software Developer.  
-I really enjoy designing websites and then bringing them to life.  
-I also like backend scripting and working with databases for logic and solving problems.
+I'm a Junior Fullstack Developer.  
+I enjoy building fullstack web apps for fun, and JavaScript plays a key role in my workflow. Its ability to run on both the client and server helps streamline development and makes it easier to manage projects end-to-end. There's something deeply rewarding about turning childhood ideas into fully functional apps—it's a creative process that constantly motivates me. 
 
 💬 Hit me up for collaborations!
 
