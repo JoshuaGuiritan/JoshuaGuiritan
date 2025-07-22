@@ -57,6 +57,6 @@ There's something incredibly rewarding about transforming the ideas I imagined a
 ---
 
 ### 🍔 [Crispy King Veterans](https://crispyking-veterans.vercel.app)  
-*Mobile-friendly online restaurant ordering app.*  
+*Mobile-friendly online restaurant static app.*  
 🔗 Live Site: [crispyking-veterans.vercel.app](https://crispyking-veterans.vercel.app)
 
