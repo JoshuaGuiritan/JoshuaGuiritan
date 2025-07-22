@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Guiritan
 
-I'm a **Junior Fullstack Developer** passionate about building end-to-end web applications.  
+I'm a **Junior Softare Developer** passionate about building fullstack web applications.  
 I enjoy creating fullstack projects in my free time, and I often use **JavaScript** across the entire stack to streamline development. Its ability to run on both the client and server helps me maintain consistency, reduce context-switching, and build faster.
 
 There's something incredibly rewarding about transforming the ideas I imagined as a kid into fully functional digital experiences. I’m especially driven by the creative freedom that development offers—bringing both logic and design together in every build.
