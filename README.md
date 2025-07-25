@@ -16,7 +16,7 @@ There's something incredibly rewarding about transforming the ideas I imagined a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
