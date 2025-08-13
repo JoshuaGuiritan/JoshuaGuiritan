@@ -1,5 +1,4 @@
 # 👋 Hey there, I’m Joshua Guiritan  
-*Building things that work. Breaking things to learn.*  
 
 ---
 
