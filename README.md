@@ -1,26 +1,39 @@
-# 👋 Hi, I'm Joshua Guiritan
-
-I'm a **Junior Softare Developer** passionate about building fullstack web applications.  
-I enjoy creating fullstack projects in my free time, and I often use **JavaScript** across the entire stack to streamline development. Its ability to run on both the client and server helps me maintain consistency, reduce context-switching, and build faster.
-
-There's something incredibly rewarding about transforming the ideas I imagined as a kid into fully functional digital experiences. I’m especially driven by the creative freedom that development offers—bringing both logic and design together in every build.
-
-💬 **Open to collaborations, feel free to connect!**
+# 👋 Hey there, I’m Joshua Guiritan  
+*Building things that work. Breaking things to learn.*  
 
 ---
 
-## 📈 GitHub Stats
+### 🧭 About Me
+I'm a **Junior Software Developer** who enjoys crafting full-stack web applications that feel *good* to use.  
 
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=tokyonight)
+Since I was a kid, I’ve been fascinated by how ideas turn into something real—whether it’s a game, a website, or a tool that makes someone’s day easier.  
+Now, I turn that curiosity into code: combining **logic** and **design** so they don’t just coexist—they dance.  
+
+💬 Always open for collaborations, interesting side projects, or even just a geeky coffee chat.  
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Stats That Make Me Look Busy  
+
+<div align="center">
+  
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=tokyonight&hide_border=true)  
+
+</div>
+
+---
+
+## 🛠 My Tech Stack
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
@@ -36,3 +49,11 @@ There's something incredibly rewarding about transforming the ideas I imagined a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
+</div>
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joshua-guiritan-127227377/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:joshuaguiritan05@gmail.com)
