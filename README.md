@@ -13,7 +13,7 @@ Now, I turn that curiosity into code: combining **logic** and **design** so they
 
 ---
 
-## 📊 GitHub Stats That Make Me Look Busy  
+## 📊 GitHub Stats
 
 <div align="center">
   
