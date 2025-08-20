@@ -15,8 +15,7 @@ I'm actively seeking opportunities to contribute to challenging projects and col
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan&theme=tokyonight&hide_border=true)
 
-![WakaTime Dev Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=joshuaguiritan&theme=tokyonight&hide_border=true&layout=compact)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan&theme=radical&no-frame=true&no-bg=true)
 </div>
 
 ---
