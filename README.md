@@ -1,11 +1,23 @@
-# Joshua Guiritan | Junior Software Developer 
+# Joshua Guiritan | Junior Software Developer
 
 ---
 
 ### **Overview**
-Dedicated **Junior Software Engineer** with a passion for building robust and intuitive web applications. My work focuses on bridging the gap between elegant design and efficient, scalable back-end logic. I specialize in crafting user-centric solutions that not only meet technical requirements but also provide a seamless and engaging experience.
+Dedicated **Junior Software Developer** with a passion for building robust and intuitive web applications. My work focuses on bridging the gap between elegant design and efficient, scalable back-end logic. I specialize in crafting user-centric solutions that not only meet technical requirements but also provide a seamless and engaging experience.
 
 I'm actively seeking opportunities to contribute to challenging projects and collaborate with innovative teams.
+
+---
+
+## **Recent Activity**
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan&theme=tokyonight&hide_border=true)
+
+![WakaTime Dev Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=joshuaguiritan&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
@@ -15,17 +27,6 @@ I'm actively seeking opportunities to contribute to challenging projects and col
 - **Back-End:** Node.js, Express
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Postman, Figma
-
----
-
-## **GitHub Stats**
-
-<div align="center">
-  
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=tokyonight&hide_border=true)  
-
-</div>
 
 ---
 
