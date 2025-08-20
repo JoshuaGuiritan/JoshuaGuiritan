@@ -3,7 +3,7 @@
 ---
 
 ### **Overview**
-Dedicated **Full-Stack Software Engineer** with a passion for building robust and intuitive web applications. My work focuses on bridging the gap between elegant design and efficient, scalable back-end logic. I specialize in crafting user-centric solutions that not only meet technical requirements but also provide a seamless and engaging experience.
+Dedicated **Junior Software Engineer** with a passion for building robust and intuitive web applications. My work focuses on bridging the gap between elegant design and efficient, scalable back-end logic. I specialize in crafting user-centric solutions that not only meet technical requirements but also provide a seamless and engaging experience.
 
 I'm actively seeking opportunities to contribute to challenging projects and collaborate with innovative teams.
 
