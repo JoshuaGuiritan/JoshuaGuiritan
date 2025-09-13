@@ -22,8 +22,8 @@ I'm actively seeking opportunities to contribute to challenging projects and col
 
 ## **Tech Stack**
 - **Languages:** JavaScript, TypeScript, PHP
-- **Front-End:** React, HTML5, CSS3, Tailwind CSS, Sass, Bootstrap, Vite
-- **Back-End:** Node.js, Express
+- **Front-End:** React, HTML5, CSS3, Tailwind CSS, Sass, Bootstrap, Vite, NextJs
+- **Back-End:** Node.js, Express, NextJs
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Postman, Figma, MySQL Workbench, phpMyAdmin
 
