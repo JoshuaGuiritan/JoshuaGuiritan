@@ -1,6 +1,6 @@
 ---
 
-# Joshua Guiritan | JavaScript Programmer
+# Joshua Guiritan | Javascript Programmer
 
 I'm **Joshua Guiritan**, a **software programmer** specializing in **JavaScript**.
 I focus on building reliable and efficient web applications using modern JavaScript technologies across both front-end and back-end environments.
