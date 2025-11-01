@@ -1,35 +1,34 @@
-# Joshua Guiritan | Junior Software Developer
+---
+
+# 🟨 Joshua Guiritan | JavaScript Programmer
+
+I'm **Joshua Guiritan**, a **software programmer** specializing in **JavaScript**.
+I focus on building reliable and efficient web applications using modern JavaScript technologies across both front-end and back-end environments.
 
 ---
 
-### **Overview**
-Dedicated **Junior Software Developer** with a passion for building robust and intuitive web applications. My work focuses on bridging the gap between elegant design and efficient, scalable back-end logic. I specialize in crafting user-centric solutions that not only meet technical requirements but also provide a seamless and engaging experience.
+## ⚙️ Tech Stack
 
-I'm actively seeking opportunities to contribute to challenging projects and collaborate with innovative teams.
+* **Languages:** JavaScript, TypeScript
+* **Frontend:** React, HTML, CSS, Tailwind, Bootstrap, Next.js
+* **Backend:** Node.js, Express, Next.js
+* **Database:** MySQL, MongoDB
+* **Tools:** Git, VS Code, Postman, Vercel, Figma
 
 ---
 
-## **Recent Activity**
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan&theme=radical&no-frame=true&no-bg=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan\&theme=tokyonight\&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan\&theme=radical\&no-frame=true\&no-bg=true)
+
 </div>
 
 ---
 
-## **Tech Stack**
-- **Languages:** JavaScript, TypeScript, PHP
-- **Front-End:** React, HTML5, CSS3, Tailwind CSS, Sass, Bootstrap, Vite, NextJs
-- **Back-End:** Node.js, Express, NextJs
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Postman, Figma, MySQL Workbench, phpMyAdmin
+## 📬 Connect
 
----
-
-## **Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joshua-guiritan-127227377/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:joshuaguiritan05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/joshua-guiritan-127227377/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:joshuaguiritan05@gmail.com)
