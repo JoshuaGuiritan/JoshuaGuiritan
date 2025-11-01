@@ -21,8 +21,8 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=graywhite&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=graywhite&hide_border=true)
 
 </div>
 
