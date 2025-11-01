@@ -7,7 +7,7 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Languages:** JavaScript, TypeScript
 * **Frontend:** React, HTML, CSS, Tailwind, Bootstrap, Next.js
@@ -17,7 +17,7 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -27,7 +27,7 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/joshua-guiritan-127227377/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:joshuaguiritan05@gmail.com)
