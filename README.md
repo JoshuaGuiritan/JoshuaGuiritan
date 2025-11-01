@@ -19,9 +19,9 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 ## 📊 GitHub Activity
 
-<div align="left">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan\&theme=radical\&no-frame=true\&no-bg=true)
 
 </div>
 
