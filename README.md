@@ -21,8 +21,8 @@ I focus on building reliable and efficient web applications using modern JavaScr
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan\&theme=tokyonight\&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan\&theme=radical\&no-frame=true\&no-bg=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
