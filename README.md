@@ -15,16 +15,17 @@ I focus on writing clean, efficient code, designing practical solutions, and imp
 - API Integration  
 
 **Frontend Development**
+- Javascript, Typescript
 - React, Next.js  
 - HTML, CSS  
 - Tailwind CSS, Bootstrap  
 
 **Backend Development**
-- Server-side Development  
+- Node.js, Express, Next.js
 - RESTful APIs  
 
 **Databases**
-- MySQL, MongoDB  
+- MySQL, MongoDB, PostgreSQL
 
 **Tools & Workflow**
 - Git & GitHub  
