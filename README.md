@@ -1,33 +1,63 @@
----
+# Joshua Guiritan  
+**Software Developer**
 
-# Joshua Guiritan | JavaScript Programmer
-
-I'm **Joshua Guiritan**, a **software programmer** specializing in **JavaScript**.
-I focus on building reliable and efficient web applications using modern JavaScript technologies across both front-end and back-end environments.
-
----
-
-## Tech Stack
-
-* **Languages:** JavaScript, TypeScript
-* **Frontend:** React, HTML, CSS, Tailwind, Bootstrap, Next.js
-* **Backend:** Node.js, Express, Next.js
-* **Database:** MySQL, MongoDB
-* **Tools:** Git, VS Code, Postman, Vercel, Figma
+I am a software developer with experience building and maintaining modern applications.  
+I focus on writing clean, efficient code, designing practical solutions, and continuously improving system reliability and user experience.
 
 ---
 
-## GitHub Activity
+## Technical Skills
+
+**Core Skills**  
+- Application Development  
+- Problem Solving & Debugging  
+- Code Optimization  
+- API Integration  
+
+**Frontend Development**  
+- React, Next.js  
+- HTML, CSS  
+- Tailwind CSS, Bootstrap  
+
+**Backend Development**  
+- Server-side Development  
+- RESTful APIs  
+
+**Databases**  
+- MySQL, MongoDB  
+
+**Tools & Workflow**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Vercel  
+- Figma  
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joshuaguiritan\&theme=radical\&no-frame=true\&no-bg=true)
+<img src="https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=joshuaguiritan&theme=radical&hide_border=true" height="165" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=radical&hide_border=true" height="165" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuaguiritan&theme=radical" />
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=joshuaguiritan&label=Profile%20Views&color=red&style=flat" />
+
 ---
 
-## Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/joshua-guiritan-127227377/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:joshuaguiritan05@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/joshua-guiritan-127227377/  
+- **Email:** joshuaguiritan05@gmail.com
