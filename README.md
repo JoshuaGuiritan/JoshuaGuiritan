@@ -40,9 +40,6 @@ I focus on writing clean, efficient code, designing practical solutions, and imp
 ### Overall Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=joshuaguiritan&theme=radical&hide_border=true)
-
 ### Language Usage
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=radical&hide_border=true)
 
