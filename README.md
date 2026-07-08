@@ -1,96 +1,119 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-fullcolor.svg" width="260" alt="Laravel Logo"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-fullcolor.svg" width="300" alt="Laravel Style Header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1F2937&height=180&section=header&text=Joshua%20Guiritan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Laravel%20Ecosystem&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF2D20&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+Livewire+%2B+Flux+UI;Clean+Code.+Elegant+Syntax.+Reliable+Systems.;Fullstack+Developer+from+the+Philippines" alt="Typing SVG" />
+</p>
 
-# Hi, I'm Joshua Guiritan 👋
-
-### Fullstack Developer — PHP · Laravel · Livewire
-
-<br/>
-
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flux%20UI-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-available%20for%20work-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/based%20in-Philippines%20🇵🇭-FF2D20?style=flat-square">
+  <img src="https://img.shields.io/badge/focus-Laravel%20%7C%20Livewire%20%7C%20Flux-000000?style=flat-square">
+</p>
 
 ---
 
-## 🚀 About Me
+## 📖 About
 
-I'm a **Fullstack Developer** specializing in the **Laravel ecosystem**, building modern, reactive web applications with **Livewire** and **Flux UI**. I care about clean architecture, elegant syntax, and shipping applications that are both maintainable and delightful to use — the same principles that make Laravel *"The PHP Framework for Web Artisans."*
+I'm a **Fullstack Developer** who works primarily in the **Laravel ecosystem** — building reactive, server-driven applications with **Livewire** and **Flux UI**, styled with **Tailwind CSS**, and deployed on **Laravel Cloud**. I care about writing expressive, well-tested code and following the conventions that make Laravel apps a pleasure to maintain.
 
-- 🔭 Currently building fullstack apps with **Laravel + Livewire + Flux UI**
-- 🌱 Deepening my expertise in **Laravel Cloud** deployments and serverless Postgres with **Neon**
-- 💬 Ask me about **Laravel**, **Livewire**, **API design**, or **PHP best practices**
-- ⚡ Fun fact: I believe artisan-crafted code beats boilerplate, every time
+```php
+class Joshua extends Developer
+{
+    protected array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'Livewire'],
+        'frontend' => ['Flux UI', 'Tailwind CSS', 'Alpine.js'],
+        'database' => ['MySQL', 'PostgreSQL (Neon)'],
+        'devops'   => ['Laravel Cloud', 'Git'],
+        'editor'   => 'PhpStorm',
+    ];
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend & Framework
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Flux UI](https://img.shields.io/badge/Flux%20UI-000000?style=flat-square&logo=laravel&logoColor=FF2D20)
-
-### Frontend
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=databricks&logoColor=black)
-
-### Hosting & Tools
-![Laravel Cloud](https://img.shields.io/badge/Laravel%20Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
+    public function currentlyDoing(): string
+    {
+        return 'Shipping fullstack apps, the artisan way 🎨';
+    }
+}
+```
 
 ---
 
-## 📊 GitHub Statistics
+## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,tailwind,js,html,css,git,github,vscode&theme=dark" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&theme=react&hide_border=true&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&theme=react&hide_border=true&title_color=FF2D20&text_color=ffffff&bg_color=0d1117" />
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>PHP, Laravel, Livewire</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Flux UI, Tailwind CSS, Alpine.js, Blade</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>MySQL, Neon PostgreSQL</td>
+</tr>
+<tr>
+<td><strong>Hosting</strong></td>
+<td>Laravel Cloud</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>PhpStorm, Git, GitHub</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan&theme=react&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub Streak" />
-
-</div>
+> **Note:** Flux UI and Laravel Cloud don't have public icon assets yet — represented above via the Laravel icon and referenced by name in the table.
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&hide_border=true&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&bg_color=0d1117&ring_color=FF2D20" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaguiritan&layout=compact&hide_border=true&title_color=FF2D20&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-guiritan-127227377/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaguiritan05@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuaguiritan&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=joshuaguiritan&label=Profile%20Views&color=FF2D20&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuaguiritan&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&hide_border=true&area=true" width="100%"/>
+</p>
 
 ---
 
-<div align="center">
-<sub>Crafted with ❤️, artisan style — built the Laravel way.</sub>
-</div>
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshua-guiritan-127227377/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:joshuaguiritan05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joshuaguiritan&label=Profile%20Views&color=FF2D20&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:FF2D20&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center"><sub>Crafted with ❤️, artisan style.</sub></p>
