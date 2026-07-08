@@ -42,13 +42,10 @@ class Joshua extends Developer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/claude/D97757" title="Claude" />
-&nbsp;&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" title="Gemini" />
-&nbsp;&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" title="GitHub Copilot" />
-&nbsp;&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/jetbrains/000000/FFFFFF" title="Junie (JetBrains)" />
 
 </div>
