@@ -1,41 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-fullcolor.svg" width="260" alt="Laravel Logo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1F2937&height=180&section=header&text=Joshua%20Guiritan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1F2937&height=180&section=header&text=Joshua%20Guiritan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Laravel%20Ecosystem&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF2D20&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+Livewire+%2B+Flux+UI;Clean+Code.+Elegant+Syntax.+Reliable+Systems.;Fullstack+Developer+from+the+Philippines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF2D20&center=true&vCenter=true&width=600&lines=Building+reactive+fullstack+web+apps;Clean+Code.+Practical+Solutions.+Reliable+Systems.;Fullstack+Developer+from+the+Philippines" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-available%20for%20work-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/based%20in-Philippines%20🇵🇭-FF2D20?style=flat-square">
-  <img src="https://img.shields.io/badge/focus-Laravel%20%7C%20Livewire%20%7C%20Flux-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/focus-Fullstack%20Development-000000?style=flat-square">
 </p>
 
 ---
 
 ## 📖 About
 
-I'm a **Fullstack Developer** who works primarily in the **Laravel ecosystem** — building reactive, server-driven applications with **Livewire** and **Flux UI**, styled with **Tailwind CSS**, and deployed on **Laravel Cloud**. I care about writing expressive, well-tested code and following the conventions that make Laravel apps a pleasure to maintain.
+I'm a **Fullstack Developer** building reactive, server-driven web applications with a modern PHP-based stack, styled with **Tailwind CSS** and backed by relational databases. I care about writing clean, well-structured code and following solid conventions that make applications easy to maintain and scale.
 
 ```php
 class Joshua extends Developer
 {
     protected array $stack = [
-        'backend'  => ['PHP', 'Laravel', 'Livewire'],
+        'backend'  => ['PHP', 'Livewire'],
         'frontend' => ['Flux UI', 'Tailwind CSS', 'Alpine.js'],
         'database' => ['MySQL', 'PostgreSQL (Neon)'],
-        'devops'   => ['Laravel Cloud', 'Git'],
+        'devops'   => ['Cloud Deployment', 'Git'],
         'editor'   => 'PhpStorm',
     ];
 
     public function currentlyDoing(): string
     {
-        return 'Shipping fullstack apps, the artisan way 🎨';
+        return 'Building clean, reliable fullstack applications 🎨';
     }
 }
 ```
@@ -45,7 +41,7 @@ class Joshua extends Developer
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,tailwind,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,tailwind,js,html,css,git,github,phpstorm&theme=dark" />
 </p>
 
 <table align="center">
@@ -55,11 +51,11 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Backend</strong></td>
-<td>PHP, Laravel, Livewire</td>
+<td>PHP, Livewire</td>
 </tr>
 <tr>
 <td><strong>Frontend</strong></td>
-<td>Flux UI, Tailwind CSS, Alpine.js, Blade</td>
+<td>Flux UI, Tailwind CSS, Alpine.js</td>
 </tr>
 <tr>
 <td><strong>Database</strong></td>
@@ -67,7 +63,7 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Hosting</strong></td>
-<td>Laravel Cloud</td>
+<td>Cloud Deployment</td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
@@ -75,7 +71,7 @@ class Joshua extends Developer
 </tr>
 </table>
 
-> **Note:** Flux UI and Laravel Cloud don't have public icon assets yet — represented above via the Laravel icon and referenced by name in the table.
+> **Note:** Flux UI and Cloud Deployment don't have public icon assets yet, so they're referenced by name in the table above.
 
 ---
 
@@ -116,4 +112,4 @@ class Joshua extends Developer
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:FF2D20&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center"><sub>Crafted with ❤️, artisan style.</sub></p>
+<p align="center"><sub>Crafted with ❤️.</sub></p>
