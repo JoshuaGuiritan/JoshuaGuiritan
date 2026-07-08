@@ -46,31 +46,6 @@ class Joshua extends Developer
 
 <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
 
-<br/><br/>
-
-### AI Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img width="48" height="48" src="https://img.shields.io/badge/%20-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /><br/>
-      <sub><b>Claude</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img width="48" height="48" src="https://img.shields.io/badge/%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /><br/>
-      <sub><b>Gemini</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img width="48" height="48" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /><br/>
-      <sub><b>GitHub Copilot</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img width="48" height="48" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Junie" /><br/>
-      <sub><b>Junie</b></sub>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
@@ -99,10 +74,6 @@ class Joshua extends Developer
 <tr>
 <td><strong>Tools</strong></td>
 <td>PhpStorm, VS Code, Git, GitHub</td>
-</tr>
-<tr>
-<td><strong>AI Tools</strong></td>
-<td>Claude, Gemini, GitHub Copilot, Junie</td>
 </tr>
 </table>
 
