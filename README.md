@@ -44,10 +44,6 @@ class Joshua extends Developer
   <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel%20Cloud-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
 <table align="center">
 <tr>
 <th>Category</th>
@@ -73,9 +69,23 @@ class Joshua extends Developer
 <td><strong>Tools</strong></td>
 <td>PhpStorm, VS Code, Git, GitHub</td>
 </tr>
+<tr>
+<td><strong>AI Tools</strong></td>
+<td>Claude, Gemini, GitHub Copilot, Junie</td>
+</tr>
 </table>
 
-> **Note:** Livewire and Flux UI don't have public icon assets yet, so they're referenced by name in the table above. Laravel Cloud is represented with a badge instead, since it's not in the icon library used above.
+<p align="center">
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" />
+  &nbsp;&nbsp;
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" />
+  &nbsp;&nbsp;
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot-color.svg" alt="GitHub Copilot" />
+  &nbsp;&nbsp;
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/junie-color.svg" alt="Junie" />
+</p>
+
+> **Note:** Livewire, Flux UI, and Laravel Cloud don't have public icon assets in the icon library used above, so they're referenced by name in the table.
 
 ---
 
