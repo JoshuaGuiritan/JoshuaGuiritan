@@ -16,7 +16,7 @@
 
 ## 📖 About
 
-I'm a **Fullstack Developer** building reactive, server-driven web applications with a modern PHP-based stack, styled with **Tailwind CSS** and backed by relational databases. I care about writing clean, well-structured code and following solid conventions that make applications easy to maintain and scale.
+I'm a **Fullstack Developer** building reactive, server-driven web applications with a modern PHP-based stack — including **Laravel** — styled with **Tailwind CSS** and backed by relational databases. I care about writing clean, well-structured code and following solid conventions that make applications easy to maintain and scale.
 
 ```php
 class Joshua extends Developer
@@ -41,7 +41,7 @@ class Joshua extends Developer
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,tailwind,js,html,css,git,github,phpstorm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,tailwind,js,html,css,git,github,phpstorm&theme=dark" />
 </p>
 
 <table align="center">
@@ -51,7 +51,7 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Backend</strong></td>
-<td>PHP, Livewire</td>
+<td>PHP, Laravel, Livewire</td>
 </tr>
 <tr>
 <td><strong>Frontend</strong></td>
