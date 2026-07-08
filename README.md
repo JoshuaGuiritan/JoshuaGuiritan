@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 About
+## About
 
 I'm a **Fullstack Web Developer** based in **Zamboanga City, Philippines**. I'm skilled in building reactive, end-to-end web applications — from database design to polished, responsive interfaces. Outside of code, I enjoy reading documentation and technical write-ups; I find that understanding a tool deeply, not just using it, makes for better software in the long run.
 
@@ -38,7 +38,7 @@ class Joshua extends Developer
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ class Joshua extends Developer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuaguiritan&show_icons=true&hide_border=true&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&bg_color=0d1117&ring_color=FF2D20" />
@@ -98,7 +98,7 @@ class Joshua extends Developer
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-guiritan-127227377/">
