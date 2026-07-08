@@ -16,17 +16,17 @@
 
 ## 📖 About
 
-I'm a **Fullstack Developer** building reactive, server-driven web applications with a modern PHP-based stack — including **Laravel** — styled with **Tailwind CSS** and backed by relational databases. I care about writing clean, well-structured code and following solid conventions that make applications easy to maintain and scale.
+I'm a **Fullstack Web Developer** based in **Zamboanga City, Philippines**. I'm skilled in building reactive, end-to-end web applications — from database design to polished, responsive interfaces. Outside of code, I enjoy reading documentation and technical write-ups; I find that understanding a tool deeply, not just using it, makes for better software in the long run.
 
 ```php
 class Joshua extends Developer
 {
     protected array $stack = [
-        'backend'  => ['PHP', 'Livewire'],
-        'frontend' => ['Flux UI', 'Tailwind CSS', 'Alpine.js'],
+        'backend'  => ['PHP', 'Laravel', 'Livewire'],
+        'frontend' => ['TypeScript', 'React', 'Next.js', 'Flux UI', 'Tailwind CSS'],
         'database' => ['MySQL', 'PostgreSQL (Neon)'],
-        'devops'   => ['Cloud Deployment', 'Git'],
-        'editor'   => 'PhpStorm',
+        'hosting'  => ['Vercel', 'Cloud Deployment'],
+        'editor'   => ['PhpStorm', 'VS Code'],
     ];
 
     public function currentlyDoing(): string
@@ -41,7 +41,7 @@ class Joshua extends Developer
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,tailwind,js,html,css,git,github,phpstorm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
 </p>
 
 <table align="center">
@@ -55,7 +55,7 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Frontend</strong></td>
-<td>Flux UI, Tailwind CSS, Alpine.js</td>
+<td>TypeScript, React, Next.js, Flux UI, Tailwind CSS, Alpine.js</td>
 </tr>
 <tr>
 <td><strong>Database</strong></td>
@@ -63,15 +63,15 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Hosting</strong></td>
-<td>Cloud Deployment</td>
+<td>Vercel, Cloud Deployment</td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td>PhpStorm, Git, GitHub</td>
+<td>PhpStorm, VS Code, Git, GitHub</td>
 </tr>
 </table>
 
-> **Note:** Flux UI and Cloud Deployment don't have public icon assets yet, so they're referenced by name in the table above.
+> **Note:** Livewire and Flux UI don't have public icon assets yet, so they're referenced by name in the table above.
 
 ---
 
