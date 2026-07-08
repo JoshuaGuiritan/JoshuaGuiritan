@@ -40,9 +40,15 @@ class Joshua extends Developer
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Junie-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+
+</div>
 
 <table align="center">
 <tr>
@@ -74,16 +80,6 @@ class Joshua extends Developer
 <td>Claude, Gemini, GitHub Copilot, Junie</td>
 </tr>
 </table>
-
-<p align="center">
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" />
-  &nbsp;&nbsp;
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" />
-  &nbsp;&nbsp;
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot-color.svg" alt="GitHub Copilot" />
-  &nbsp;&nbsp;
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/junie-color.svg" alt="Junie" />
-</p>
 
 > **Note:** Livewire, Flux UI, and Laravel Cloud don't have public icon assets in the icon library used above, so they're referenced by name in the table.
 
