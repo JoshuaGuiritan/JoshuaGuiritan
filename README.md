@@ -42,11 +42,14 @@ class Joshua extends Developer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Junie-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" /><br/><br/>
+<img height="48" src="https://cdn.simpleicons.org/claude/D97757" title="Claude" />
+&nbsp;&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" title="Gemini" />
+&nbsp;&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" title="GitHub Copilot" />
+&nbsp;&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/jetbrains/000000/FFFFFF" title="Junie (JetBrains)" />
 
 </div>
 
