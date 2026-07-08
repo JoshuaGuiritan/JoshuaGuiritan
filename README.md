@@ -25,7 +25,7 @@ class Joshua extends Developer
         'backend'  => ['PHP', 'Laravel', 'Livewire'],
         'frontend' => ['TypeScript', 'React', 'Next.js', 'Flux UI', 'Tailwind CSS'],
         'database' => ['MySQL', 'PostgreSQL (Neon)'],
-        'hosting'  => ['Vercel', 'Cloud Deployment'],
+        'hosting'  => ['Vercel', 'Laravel Cloud'],
         'editor'   => ['PhpStorm', 'VS Code'],
     ];
 
@@ -42,6 +42,10 @@ class Joshua extends Developer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,mysql,postgres,tailwind,html,css,vercel,git,github,phpstorm,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%20Cloud-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 <table align="center">
@@ -63,7 +67,7 @@ class Joshua extends Developer
 </tr>
 <tr>
 <td><strong>Hosting</strong></td>
-<td>Vercel, Cloud Deployment</td>
+<td>Vercel, Laravel Cloud</td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
@@ -71,7 +75,7 @@ class Joshua extends Developer
 </tr>
 </table>
 
-> **Note:** Livewire and Flux UI don't have public icon assets yet, so they're referenced by name in the table above.
+> **Note:** Livewire and Flux UI don't have public icon assets yet, so they're referenced by name in the table above. Laravel Cloud is represented with a badge instead, since it's not in the icon library used above.
 
 ---
 
