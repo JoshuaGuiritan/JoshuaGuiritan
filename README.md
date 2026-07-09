@@ -110,7 +110,7 @@ class Joshua extends Developer
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/joshua.guiritan.3">
-    <img src="https://skillicons.dev/icons?i=fb" height="45"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/joshua_guiritan/">
@@ -121,7 +121,6 @@ class Joshua extends Developer
     <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joshuaguiritan&label=Profile%20Views&color=FF2D20&style=flat-square" />
 </p>
