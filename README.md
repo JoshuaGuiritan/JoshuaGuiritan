@@ -117,5 +117,3 @@ class Joshua extends Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:FF2D20&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center"><sub>Crafted with ❤️.</sub></p>
