@@ -31,7 +31,7 @@ class Joshua extends Developer
 
     public function currentlyDoing(): string
     {
-        return 'Building clean, reliable fullstack applications 🎨';
+        return 'Building clean, reliable fullstack applications';
     }
 }
 ```
