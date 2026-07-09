@@ -108,6 +108,18 @@ class Joshua extends Developer
   <a href="mailto:joshuaguiritan05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/joshua.guiritan.3">
+    <img src="https://skillicons.dev/icons?i=fb" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/joshua_guiritan/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/JoshuaGuiritan">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
 </p>
 
 <p align="center">
